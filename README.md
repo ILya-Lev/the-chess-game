@@ -2,7 +2,7 @@
 
 atm, there is only one solution - simple desktop app which allows 2 players to play with each other.
 implemented with Qt5.4.2 with widgets.
-current issues: no images for figures, no normal gameplay (mouse button click event is not handled well => key board space key is used), not all rules are implemented (no check, no checkmate, no restrictions on check state for King move, no castling, no possibility to retreive figure when pawn has come to opposite board edge), consider enhancing mechanism of saving/loading chess game.
+current issues: no images for figures, no normal gameplay (mouse button click event is not handled well => key board space key is used), not all rules are implemented (no check, no checkmate, no game ending at all, no restrictions on check state for King move, no jujube, no castling, no possibility to retreive figure when pawn has come to opposite board edge), consider enhancing mechanism of saving/loading chess game.
 some obvious enhancements to be done: add login dialog and database to track players and results.
 
 plans so far:
