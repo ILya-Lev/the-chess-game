@@ -11,3 +11,6 @@ plans so far:
 3. make it web app with ASP.NET
 
 however, who knows when the plans will be implemented
+
+time tracking:
+1. initial Qt app was created (07-08-2015 to 09-08-2015) in 8.5h (Fri - 4h, Sat - 3h, Sun - 1.5h).
